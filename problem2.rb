@@ -1,3 +1,5 @@
+# This is kind of slow but the math and Ruby part is cool?
+
 class Fixnum
   def perfect_square?
     s = Math.sqrt(self).floor
